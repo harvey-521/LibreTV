@@ -59,6 +59,11 @@ const API_SITES = {
         api: 'https://bfzy.tv/',
         name: '暴风资源',
         detail: 'https://bfzy.tv/'
+    },
+    llzy: {
+       api: 'https://lzizy1.com/',
+       name: '量子资源',
+       detail: 'https://lzizy1.com/' 
     }
     
 };
