@@ -54,7 +54,13 @@ const API_SITES = {
     dbzy: {
         api: 'https://dbzy.com',
         name: '豆瓣资源',
+    },
+    bfzy: {
+        api: 'https://bfzy.tv/',
+        name: '暴风资源',
+        detail: 'https://bfzy.tv/'
     }
+    
 };
 
 // 添加聚合搜索的配置选项
