@@ -56,9 +56,8 @@ const API_SITES = {
         name: '豆瓣资源',
     },
     bfzy: {
-        api: 'https://bfzy.tv/',
-        name: '暴风资源',
-        detail: 'https://bfzy.tv/'
+        api: 'https://bfzyapi.com/api.php/provide/vod/from/bfzym3u8/',
+        name: '暴风资源'
     },
     llzy: {
        api: 'https://lzizy1.com/',
